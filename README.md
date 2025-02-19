@@ -77,5 +77,3 @@ plt.ylabel('Quantity Sold')
 plt.grid(True)
 plt.show()
 ```
-
-This updated project file should help you analyze and visualize the sales data for the products Samsung, Apple, Xiaomi, OPPO, and Vivo. Let me know if you need any further assistance!
